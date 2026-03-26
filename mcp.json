@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "github": {
+      "type": "npx",
+      "command": "node",
+      "args": [
+        "/Users/nishidautafu/MCP_GitHub/index.js",
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {}
+    }
+  }
+}
