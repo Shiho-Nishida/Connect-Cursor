@@ -15,3 +15,5 @@ Command L →　Chat → ▶︎Apply
 ⭐︎Command L 1, @〰︎ ファイル指定
 　　　　　　　2, with codebase コード全体を指定
             3, Docs ウェブサイトやドキュメントを参照　Command K → @ →　Docs → addNewDoc  → URL貼り付け → Confirm
+
+githubに連携させる
