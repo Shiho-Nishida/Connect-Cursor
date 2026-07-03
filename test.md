@@ -17,3 +17,8 @@ Command L →　Chat → ▶︎Apply
             3, Docs ウェブサイトやドキュメントを参照　Command K → @ →　Docs → addNewDoc  → URL貼り付け → Confirm
 
 githubに連携させる
+
+Token書き換え
+
+
+
