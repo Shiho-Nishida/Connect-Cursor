@@ -1,12 +1,12 @@
 obsidianで知識管理、Cursorで資料作成、GitHubで保管
 
-<p>GitHub 連携</p>
+GitHub 連携
 
-<p>連携テスト</P>
+連携テスト
 
-<p>Git動作確認</p>
+Git動作確認
 
-<p>コミット確認</p>
+コミット確認
 
 command K →　Edit →　command Y (実行)
 
@@ -26,6 +26,4 @@ Spからの書き換え(Spで編集→コミット→PC側に反映)
 
 2026/07/06
 
-
-
-
+コミットの動作がぎこちない
